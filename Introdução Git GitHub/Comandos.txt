@@ -1,0 +1,11 @@
+Comandos ciclo inical do Git
+
+git init - para iniciar o repositório do Git
+
+git add - para mover arquivos e dar versionamento
+
+git add * - para mover os arquivos do modified para staged
+
+git add . - para adiconar novos arquivos em um repositório clonado do git hub
+
+git commit - para finalizar o processo e comitar o repositório, deixando ele pronto para ser enviado ao github
