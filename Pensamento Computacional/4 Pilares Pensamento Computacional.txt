@@ -1,0 +1,13 @@
+Conheça quais são os 4 pilares no pensamento computacioanl:
+
+1º Decomposição - consiste em pegar um problema com um certo grau de complexidade e dividi-lo de uma forma que seja possível torná-lo em problemas menores, atacando um pont de cada vez.
+
+2º Reconhecimento de Padrções - Vem da ideia de identificar similaridades e tendências dentro de um contexto ou contextos distintos.
+
+3º Abstração - consiste em estrapolar o conceito de algum problema particular/específico para uma forma generalista.
+
+4º Designer de algoritmos - define o passo a passo da solução do problema, onde:
+* foi decomposto o problema;
+* reconhecido padrões que seriam interessantes para solução do problema;
+* abstraído para uma forma generalista;
+* definido as instruções para determinar a solução.

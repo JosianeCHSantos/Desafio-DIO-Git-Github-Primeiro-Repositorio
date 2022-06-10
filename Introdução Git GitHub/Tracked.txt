@@ -1,0 +1,6 @@
+Percurso de transição dos arquivos:
+
+Untracked - O arquivo foi criado, mas ainda não é reconhecido pelo repositório;
+Unmodified - Arquivos que ainda não sofreram nenhum tipo de modificação;
+Modified - Arquivos sofreram modificações e estão prontos para serem enviados para o Staged;
+Staged - Aquivos no estágio de estarem prontos para serem direcionados para o repositório remoto.

@@ -1,11 +1,25 @@
-Comandos ciclo inical do Git
+Comandos úteis no ciclo de envio e recebimento do Git/GitHub
 
-git init - para iniciar o repositório do Git
+git init 
+- para iniciar o repositório do Git
 
-git add - para mover arquivos e dar versionamento
+git add 
+- para mover arquivos e dar versionamento
 
-git add * - para mover os arquivos do modified para staged
+git add * 
+- para mover os arquivos do modified para staged
 
-git add . - para adiconar novos arquivos em um repositório clonado do git hub
+git add . 
+- para adiconar novos arquivos em um repositório clonado do git hub
 
-git commit - para finalizar o processo e comitar o repositório, deixando ele pronto para ser enviado ao github
+git commit -m "mensagem que define o que está sendo feito" 
+- para finalizar o processo e comitar o repositório, deixando ele pronto para ser enviado ao github
+
+git status 
+- que irá verificar o em qual posição do ciclo de vida os pastas/arquivos estão dentro do guit bash
+
+git push origin main
+- este comando irá vincular o resitório criado dentro do git bash ao github.
+
+git clone "colar link copiado dentro repositório do github"
+

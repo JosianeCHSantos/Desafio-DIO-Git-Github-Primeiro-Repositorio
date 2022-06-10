@@ -1,0 +1,8 @@
+O que é o pensamento computacional?
+
+Processo de pensamento envolvido na expressão de soluções seguindo um passo a passo computacional ou algoritmos que podem ser implementados/implantados no computador.
+Não se restringindo somente ao meio computacional, ao âmbito das cências exatas e da computação.
+Ele é um pensamento sistemático e eficiente, tanto na formulação quanto na resolução de um problema, ele deve ser utilizado de uma maneira em que o humano e uma máquina sejam capazes de resolver.
+A solução encontrada, tem que ser resolvível, tanto para uma máquina, quanto para o ser humano.
+
+Sendo assim o pensamento computacional é uma habilidade generalista.

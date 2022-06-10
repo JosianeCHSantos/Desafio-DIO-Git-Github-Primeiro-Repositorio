@@ -1,0 +1,4 @@
+Repositórios são locais de armazenamento, seja local ou remoto.
+
+Pastas, arquivos e códigos , criados e ficam armazenados no repositório local (máquina), 
+possibilitando que haja transferência/transição de um local para outro, ou seja, repositório local para o repositório remoto (GitHub).
